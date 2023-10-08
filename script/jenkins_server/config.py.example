@@ -1,0 +1,10 @@
+# Must change to your own:
+ACME_SH_DIR = '/Users/me/.acme.sh'
+DOMAIN = 'my.domain.net'
+PKCS_PWD = 'MyPkcsPwd$%^&1234'
+JENKINS_JKS_PATH = '/Users/me/.jenkins/jenkins.jks'
+UPDATE_CERT_WORKING_DIR = '/Users/me/inhouse-auto-certs'
+
+# Probably can use the default values:
+BREW_BIN = '/usr/local/bin/brew'
+MD5_BIN = '/sbin/md5'
